@@ -29,6 +29,12 @@ Un clon del clásico **juego del dinosaurio de Chrome** adaptado al **micro:bit 
 
 ---
 
+### 📂 Como Descargar
+
+El archivo .js del repositorio es el código fuente para quienes quieran explorar en el editor de MakeCode y el archivo .hex es el archivo que deben ingresar en su micro:bit a través de la conexión por USB para jugar el juego.
+
+---
+
 ## 🕹️ Controles
 
 ### Pantalla de intro
