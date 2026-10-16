@@ -1,6 +1,6 @@
 # 🦖 DinoBit — Dinosaurio para micro:bit V2
 
-[![Versión](https://img.shields.io/badge/versión-1.1.9-blue.svg)]()
+[![Versión](https://img.shields.io/badge/versión-[1.2.1]%20/%20(v1.1)-blue.svg)]()
 [![Plataforma](https://img.shields.io/badge/plataforma-micro%3Abit%20V2-green.svg)]()
 [![MakeCode](https://img.shields.io/badge/MakeCode-TypeScript-orange.svg)]()
 [![Licencia](https://img.shields.io/badge/licencia-MIT-yellow.svg)]()
@@ -60,6 +60,7 @@ El archivo .js del repositorio es el código fuente para quienes quieran explora
 | :--- | :--- |
 | **B** | Subir volumen |
 | **A** | Bajar volumen |
+| **A+B** | Encender/Apagar música Nyan (1.1 o superior) |
 | **Logo (toque corto)** | Salir del menú |
 
 ### Reset del récord local
@@ -256,6 +257,8 @@ Este proyecto usa la extensión de la comunidad **[flashstorage](https://github.
 | **1.1.7** |1.0| Bloqueo por versión recibida mayor |
 | **1.1.8** |1.0| Pausa de 150 ms tras `put()` para la flash |
 | **1.1.9** |1.0| Icono de disquete durante el guardado |
+| **1.2.0** |1.1| **Optimización: -170 líneas sin perder funcionalidad** |
+| **1.2.1** |1.1| Música Nyan toggle en menú de volumen con A+B |
 
 ---
 
